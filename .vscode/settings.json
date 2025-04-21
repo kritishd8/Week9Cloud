@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5cafabe1-348c-4e40-a79b-7a16f3441f62/resourceGroups/kritish_group/providers/Microsoft.Web/sites/kritish",
+    "appService.deploySubpath": "."
+}
